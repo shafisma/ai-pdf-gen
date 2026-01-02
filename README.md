@@ -103,7 +103,7 @@ Generates a PDF document based on the provided topic and page count.
 ```json
 {
   "topic": "string",
-  "pages": number
+  "pages": number // Must be between 1 and 10
 }
 ```
 
